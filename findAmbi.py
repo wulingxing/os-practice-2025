@@ -83,4 +83,8 @@ if fmm_line==bmm_line:
 else:
     print(compare(fmm_line,bmm_line))
 
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
 
